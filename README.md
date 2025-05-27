@@ -6,8 +6,8 @@ A modern, responsive video library web application built with **React**, **Vite*
 
 ## 🚀 Live Demo
 
-🌐 [View Live App](https://your-live-url.com)  
-*(Replace with your actual deployment URL)*
+🌐 [View Live App](https://vlms-project-six.vercel.app/)  
+
 
 ---
 
